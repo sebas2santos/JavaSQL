@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author El rey.
+ * @author Sebastian Dos Santos.
  */
 public class Val20 {
 
